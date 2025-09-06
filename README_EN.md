@@ -89,10 +89,7 @@ Case outline:
 
 - 2025-04-20 L0ne1y contributed case collection
   [real-world-case/2025-04-20-L0ne1y](real-world-case/2025-04-20-L0ne1y)
-  
-- 2025-06-23 fushuling contributed case collection
-  
-  [real-world-case/2025-06-23-fushuling](real-world-case/2025-06-23-fushuling)
+- 2025-06-23 fushuling contributed case collection [real-world-case/2025-06-23-fushuling](real-world-case/2025-06-23-fushuling)
 
 ## Other Excellent Open-source JDBC Projects
 

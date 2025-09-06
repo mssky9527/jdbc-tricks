@@ -91,10 +91,7 @@ jdbc-tricks/
 
 - 2025-04-20 L0ne1y 贡献案例集
   [real-world-case/2025-04-20-L0ne1y](real-world-case/2025-04-20-L0ne1y)
-  
-- 2025-06-23 fushuling 贡献案例集
-
-  [real-world-case/2025-06-23-fushuling](real-world-case/2025-06-23-fushuling)
+- 2025-06-23 fushuling 贡献案例集 [real-world-case/2025-06-23-fushuling](real-world-case/2025-06-23-fushuling)
 
 ## 其他优秀的开源JDBC 项目
 
